@@ -1,5 +1,7 @@
-fastapi
-umongo
-pydantic
-dotenv
-uvicorn
+fastapi==0.110.0
+umongo==4.0.0
+motor==3.3.2
+pymongo<4.9.0
+pydantic==2.6.4
+python-dotenv==1.0.1
+uvicorn==0.29.0
