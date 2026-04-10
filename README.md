@@ -2,14 +2,14 @@
 
 Esta é uma aplicação backend acadêmica, desenvolvida com **FastAPI** e **MongoDB**, projetada para ser executada em um ambiente containerizado com **Docker**.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **FastAPI**: Framework moderno e de alto desempenho para construir APIs com Python.
 - **MongoDB**: Banco de dados NoSQL orientado a documentos para armazenamento flexível.
 - **Docker & Docker Compose**: Para containerização e orquestração da aplicação e do banco de dados.
 - **Motor & umongo**: Driver assíncrono e ODM (Object Document Mapper) para MongoDB.
 
-## 📋 Funcionalidades (CRUD de Livros)
+## Funcionalidades (CRUD de Livros)
 
 O sistema gerencia um catálogo de livros acadêmicos com os seguintes atributos:
 1. **Título**: O nome da obra acadêmica.
@@ -27,7 +27,7 @@ O sistema gerencia um catálogo de livros acadêmicos com os seguintes atributos
 | PUT | `/livros/{id}` | Atualiza as informações de um livro existente. |
 | DELETE | `/livros/{id}` | Remove um livro do catálogo. |
 
-## 🛠️ Como Executar o Projeto
+##  Como Executar o Projeto
 
 ### Pré-requisitos
 - Docker e Docker Compose instalados em sua máquina.
