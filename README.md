@@ -1,6 +1,6 @@
 # Aplicação Backend Acadêmica (CRUD) - FastAPI & MongoDB
 
-Esta é uma aplicação backend acadêmica humanizada, desenvolvida com **FastAPI** e **MongoDB**, projetada para ser executada em um ambiente containerizado com **Docker**.
+Esta é uma aplicação backend acadêmica, desenvolvida com **FastAPI** e **MongoDB**, projetada para ser executada em um ambiente containerizado com **Docker**.
 
 ## 🚀 Tecnologias Utilizadas
 
